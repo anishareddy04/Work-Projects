@@ -1,0 +1,6 @@
+2024-05-22 21:39:29,040 - Server started. Listening on 127.0.0.1:8444
+2024-05-22 21:39:29,040 - Using model file path: /home/akhilesh/Desktop/DS+Comp_sec/proj/smtg/trained_chatbot.pkl
+2024-05-22 21:39:29,041 - Attempting to load model from /home/akhilesh/Desktop/DS+Comp_sec/proj/smtg/trained_chatbot.pkl
+2024-05-22 22:58:17,280 - Server started. Listening on 127.0.0.1:8444
+2024-05-22 22:58:17,280 - Using model file path: /home/akhilesh/Desktop/DS+Comp_sec/proj/smtg/trained_chatbot.pkl
+2024-05-22 22:58:17,280 - Attempting to load model from /home/akhilesh/Desktop/DS+Comp_sec/proj/smtg/trained_chatbot.pkl
